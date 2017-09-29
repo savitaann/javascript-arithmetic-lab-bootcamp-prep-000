@@ -46,4 +46,3 @@ function makeInt(n) {
 }
 
 makeInt('0x2328')
-
