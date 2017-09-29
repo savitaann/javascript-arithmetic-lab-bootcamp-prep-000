@@ -47,8 +47,8 @@ function makeInt(n) {
 
 makeInt('0x2328')
 
-function makeInt(n) {
-  return parseInt(n)
+function makeInt(isNaN) {
+  return parseInt(isNaN)
 }
 
 makeInt('sldkjflksjf')
