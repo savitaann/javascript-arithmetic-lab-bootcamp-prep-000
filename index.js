@@ -52,3 +52,9 @@ function makeInt(isNaN) {
 }
 
 makeInt('sldkjflksjf')
+
+function preserveDecimal(n){
+  return parseFloat(n)
+}
+
+preserveDecimal('2.222')
