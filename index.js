@@ -46,3 +46,10 @@ function makeInt(n) {
 }
 
 makeInt('0x2328')
+
+function makeInt(n) {
+  return parseInt(n)
+}
+
+makeInt('sldkjflksjf')
+
