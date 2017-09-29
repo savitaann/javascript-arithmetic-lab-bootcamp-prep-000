@@ -40,3 +40,10 @@ function makeInt(n){
 }
 
 makeInt('15')
+
+function makeInt(n) {
+  return parseInt(n)
+}
+
+makeInt('0x2328')
+
