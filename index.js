@@ -64,4 +64,3 @@ function makeInt(isNaN) {
 }
 
 makeInt('sldkjflksjf')
-
