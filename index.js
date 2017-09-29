@@ -58,3 +58,10 @@ function preserveDecimal(n){
 }
 
 preserveDecimal('2.222')
+
+function makeInt(isNaN) {
+  return parseFloat(isNaN)
+}
+
+makeInt('sldkjflksjf')
+
